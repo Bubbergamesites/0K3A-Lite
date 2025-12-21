@@ -12,4 +12,4 @@ either download the index.html file, or deploy to ANY static host!
 can be deployed to cloudflare pages in less than 20 seconds!!
 
 # to-dos
-add a proxy
+none. yay!
